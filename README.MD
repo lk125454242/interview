@@ -46,4 +46,4 @@ function decomposeNumber(number) {
 ```
 ## 题目三
 1. [简历](http://map.liyankai.com/me.html)
-2. [旅行计划](http://map.liyankai.com/)
+2. [旅行计划](http://map.liyankai.com/map.html)
